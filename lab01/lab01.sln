@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab01", "lab01\lab01.vcxproj", "{460E20C9-530C-4697-A04D-989838C6ADEA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "skrypt_do_rysowania_funkcji", "skrypt_do_rysowania_funkcji\skrypt_do_rysowania_funkcji.pyproj", "{02D6226F-3A3B-4377-8D18-87F45B99CDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Debug|x64.ActiveCfg = Debug|x64
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Debug|x64.Build.0 = Debug|x64
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Debug|x86.Build.0 = Debug|Win32
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Release|x64.ActiveCfg = Release|x64
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Release|x64.Build.0 = Release|x64
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Release|x86.ActiveCfg = Release|Win32
+		{460E20C9-530C-4697-A04D-989838C6ADEA}.Release|x86.Build.0 = Release|Win32
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Release|x64.ActiveCfg = Release|Any CPU
+		{02D6226F-3A3B-4377-8D18-87F45B99CDFC}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2EAE9ED-9B9B-4F66-9E78-158BB1434AEE}
+	EndGlobalSection
+EndGlobal
